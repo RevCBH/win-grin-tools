@@ -18,7 +18,7 @@ The `grin.bat` file calles grin inside the running container and passes any prov
 The `txs` folder is a place to put transaction files. So if you got sent a file called `payment.tx` you would:
  
 1. Place it in the `txs` folder.
-2. Run `./grin.cmd wallet receive --input txs/payment.tx`
+2. Run `./grin wallet receive --input txs/payment.tx`
 3. Take the generated `payment.tx.response` file from the `txs` folder and send it back.
 
 For more info on using the wallet, see [here](https://github.com/mimblewimble/docs/wiki/How-to-use-the-Grin-wallet).
