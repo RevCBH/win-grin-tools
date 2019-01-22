@@ -37,3 +37,8 @@ If you want to leave it running after starting the listener, you can always pres
 
 1. Integrate wallet713 with the local grin node to minimize trust on external sources.
 2. Figure out how to make the release binary work for wallet713 instead of building from scratch.
+
+# Send me your grin 😁 
+It's for, uh, testing.
+
+grinbox://gVugNH4bdsQs2UfCWeP914QccZqNw4cFU1ZpbTWVcm9ETDNBHg2E 
